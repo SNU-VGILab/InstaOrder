@@ -1,0 +1,11 @@
+_BASE_: ../../maskformer2_R50_bs16_50ep.yaml
+MODEL:
+  GEOMETRIC_PREDICTOR:
+    NAME: "PairwiseResNet"
+    TASK: 'o'
+    PAIRWISE: True
+    OCCLUSION_ON: True  # Inference only (can disable output even if ION is sticked to M2F)
+    INPUT_SIZE: 256
+    USE_INSTAORDERNET_WEIGHTS: True
+TEST:
+  OCCLUSION_EVALUATION: True

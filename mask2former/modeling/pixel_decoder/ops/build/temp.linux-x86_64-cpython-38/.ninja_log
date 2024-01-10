@@ -1,0 +1,4 @@
+# ninja log v5
+0	8004	1699845654515804761	/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	b44bc18e52a7c126
+0	18874	1699845665383783338	/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	8ddf1875a0a4b21b
+1	25015	1699845671495771189	/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/pierre/code/Tests-InstaOrder-Panoptic/mask2former/modeling/pixel_decoder/ops/src/vision.o	5ee105cbe361d4f
