@@ -5,7 +5,6 @@
 <sup>1</sup>Seoul National University, <sup>2</sup>LG AI Research
 
 > This work is an extension of the paper "[Instance-Wise Occlusion and Depth Order in Natural Scenes](https://arxiv.org/abs/2111.14562)" by Hyumin Lee and Jaesik Park, 2022 (CVPR).
-> Our art is currently under review for TPAMI.
 
 <div align="center">
 
