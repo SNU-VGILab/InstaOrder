@@ -1,6 +1,6 @@
 # Instance-Wise Holistic Order Prediction In Natural Scenes
 
-[Pierre Musacchio](https://github.com/pmusacchio)<sup>1</sup>, Hyunmin Lee<sup>2</sup>, [Jaesik Park](https://jaesik.info)<sup>1</sup>
+[Pierre Musacchio](https://github.com/pmusacchio)<sup>1</sup>, [Hyunmin Lee](https://github.com/semonemo)<sup>2</sup>, [Jaesik Park](https://jaesik.info)<sup>1</sup>
 
 <sup>1</sup>Seoul National University, <sup>2</sup>LG AI Research
 
